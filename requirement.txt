@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+paddlepaddle
+paddleocr
+mysql-connector-python
+numpy
